@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Your Name
+# Copyright (c) 2025 Mafisa Tech Affiliate Pty Ltd
 
 """Main entry point for the Township Small Business Directory Streamlit app."""
 
