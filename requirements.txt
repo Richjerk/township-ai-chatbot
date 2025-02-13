@@ -9,4 +9,7 @@ geopy
 langchain
 ollama
 huggingface_hub
+streamlit
+python-3.8.12
+
 
