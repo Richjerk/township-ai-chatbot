@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+pymongo
+python-dotenv
+openai
+requests
+streamlit
+geopy
+langchain
+ollama
+huggingface_hub
+

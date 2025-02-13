@@ -1,0 +1,10 @@
+backend/
+  |- server.js
+  |- .env
+  |- models/
+    |- Business.js
+    |- User.js
+  |- routes/
+    |- businessRoutes.js
+    |- chatbotRoutes.js
+

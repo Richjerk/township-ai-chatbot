@@ -1,0 +1,29 @@
+# Ignore operating system files and caches
+.DS_Store
+.cache/
+.config/
+.local/
+.npm/
+.nvm/
+.bash_history
+.bashrc
+.profile
+.ssh/
+
+# Ignore Python virtual environments and caches
+__pycache__/
+*.pyc
+.env
+.conda/
+.venv/
+
+# Ignore Node modules and lock files if not needed in the repo
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ignore any other system files you don't want tracked
+Dockerfile
+snap/
+miniconda3/
+
